@@ -1,0 +1,29 @@
+Palette
+
+Titles:      
+#9E3392 
+(fuchsia)
+
+Body text:   
+#0F1A0B 
+(near black)
+
+Background:  
+#F2FFED 
+(near white)
+
+Links:	     
+#98EB7A 
+(light green)
+
+Nav background:
+#0F1A0B 
+(near black)
+
+Navigation text:
+#9E3392 
+(fuchsia)
+
+
+
+
